@@ -35,34 +35,63 @@ I am a final-year **B.Tech student in Engineering & Computational Mechanics at N
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal (Comprehensive Skill Matrix)
 
 <div align="center">
 
-### **Languages & Core Skills**
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Backend, Cloud & DevOps**
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+### **Backend & Asynchronous Messaging**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-008080?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Microservices](https://img.shields.io/badge/7_Microservices-FF4500?style=for-the-badge&logo=microgenetics&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### **Frontend & AI/LLMs**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **Databases & Caching**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **AI, LLMs & Prompt Engineering**
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Vector Embeddings](https://img.shields.io/badge/RAG_%26_Vector_Search-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/LLMs-00A67E?style=for-the-badge&logo=huggingface&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E0115F?style=for-the-badge&logo=hypothesis&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_API_(Llama_3.3)-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### **Cloud, DevOps & CI/CD**
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI%2FCD)-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+### **Core Computer Science & Architecture**
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA_(2800%2B_Solved)-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-2E8B57?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![System Design (HLD/LLD)](https://img.shields.io/badge/System_Design_(HLD%2FLLD)-4B0082?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-6A5ACD?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-008080?style=for-the-badge&logo=linux&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-FF4500?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
