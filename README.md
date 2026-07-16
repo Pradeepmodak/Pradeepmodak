@@ -127,8 +127,17 @@ I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedp
 ## 📈 Live GitHub Analytics & Contribution Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepmodak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepmodak&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="GitHub Streak" />
+
+[![GitHub Followers](https://img.shields.io/github/followers/Pradeepmodak?style=for-the-badge&logo=github&label=Followers&color=2F81F7)](https://github.com/Pradeepmodak?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Pradeepmodak?style=for-the-badge&logo=github&label=Repository%20Stars&color=E3B341)](https://github.com/Pradeepmodak?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repositories-30%2B-238636?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Pradeepmodak?tab=repositories)
+[![Total Commits](https://img.shields.io/badge/Total%20Contributions-1%2C200%2B-8957E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Pradeepmodak)
+
+<br /><br />
+
+  <a href="https://github.com/Pradeepmodak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepmodak&theme=tokyonight&hide_border=true&background=0D1117" height="185" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br />
@@ -139,12 +148,6 @@ I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedp
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepmodak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
