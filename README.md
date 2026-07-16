@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Pradeep Modak 👋
+# Hi there, I'm Pradeep Modak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### ⚡ Competitive Programmer | Full-Stack & Microservices Architect | AI & LLM Engineer
 
@@ -9,13 +9,20 @@
 [![CodeChef 3-Star](https://img.shields.io/badge/CodeChef-3--Star%20(Max:%201624)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 [![NIT Jamshedpur](https://img.shields.io/badge/NIT%20Jamshedpur-B.Tech%20'26-00529B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.nitjsr.ac.in/)
 
----
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Solved+2%2C800%2B+DSA+Problems+across+Major+CP+Platforms%p1;Architected+7+Microservices+with+RabbitMQ+%26+Docker%p1;Built+AI-Powered+Food+Delivery+%26+Online+Coding+Engines%p1;Meta+Hacker+Cup+Semi-Finalist+%7C+Rank+1+Cognitio+'25+SDE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Solved+2%2C800%2B+DSA+Problems+across+Major+CP+Platforms%p1;Architected+7+Microservices+with+RabbitMQ+%26+Docker%p1;Built+AI-Powered+Food+Delivery+%26+Online+Coding+Engines%p1;Meta+Hacker+Cup+Semi-Finalist+%7C+Rank+1+Cognitio+'25+SDE" alt="Typing SVG" />
+
+<br />
+
+<!-- Animated GitHub Trophies -->
+<a href="https://github.com/Pradeepmodak">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pradeepmodak&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Pradeepmodak Trophies" />
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎯 About Me
 
@@ -26,7 +33,7 @@ I am a final-year **B.Tech student in Engineering & Computational Mechanics at N
 - 🤖 **AI Builder:** Built production-grade AI features including **semantic vector search, RAG pipelines**, and LLM-powered live code assistants and mock interviewers using Groq & Gemini APIs.
 - 💬 **Open to Roles:** Actively seeking **Software Development Engineer (SDE / Backend / Full-Stack)** full-time roles and high-impact internships.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛠️ Technical Arsenal
 
@@ -59,7 +66,7 @@ I am a final-year **B.Tech student in Engineering & Computational Mechanics at N
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏆 Competitive Programming & Achievements
 
@@ -71,7 +78,7 @@ I am a final-year **B.Tech student in Engineering & Computational Mechanics at N
 | **Meta Hacker Cup** | **Semi-Finalist** | International | Qualified among top global algorithmic programmers |
 | **National Contests** | **Rank 1 & Top 12** | SDE Rounds | **Rank 1** Cognitio '25 SDE Round, **Rank 6** AlgoUniv Graph Camp, **Top 12** CodeKarma |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 Featured Engineering Projects
 
@@ -93,13 +100,29 @@ I am a final-year **B.Tech student in Engineering & Computational Mechanics at N
 * **Hands-Free AI Mock Interviews:** Created an automated speech-driven behavioral and technical interview simulator utilizing the **Web Speech API** for voice-to-text and text-to-speech.
 * **Adaptive Roadmap Generator:** Built an analytics engine that tracks user DSA performance metrics and constructs tailored 7-, 14-, and 30-day interview preparation roadmaps.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 GitHub Performance & Activity
+## 📈 Live GitHub Analytics & Contribution Graph
 
 <div align="center">
+  <!-- Animated Activity Graph -->
+  <a href="https://github.com/Pradeepmodak">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeepmodak&bg_color=0D1117&color=58A6FF&line=2F81F7&point=FFA116&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Pradeepmodak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepmodak&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Animated Contribution Grid Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br />
@@ -108,7 +131,7 @@ I am a final-year **B.Tech student in Engineering & Computational Mechanics at N
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepmodak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🤝 Let's Connect & Collaborate!
 
