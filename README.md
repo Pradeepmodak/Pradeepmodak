@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Pradeep Modak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there, I'm Pradeep Modak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
 
 ### ⚡ Competitive Programmer | Full-Stack & Microservices Architect | AI & LLM Engineer
 
@@ -11,14 +11,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Solved+2%2C800%2B+DSA+Problems+across+Major+CP+Platforms%p1;Architected+7+Microservices+with+RabbitMQ+%26+Docker%p1;Built+AI-Powered+Food+Delivery+%26+Online+Coding+Engines%p1;Meta+Hacker+Cup+Semi-Finalist+%7C+Rank+1+Cognitio+'25+SDE" alt="Typing SVG" />
-
-<br />
-
-<!-- Animated GitHub Trophies -->
-<a href="https://github.com/Pradeepmodak">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pradeepmodak&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Pradeepmodak Trophies" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Solved+2%2C800%2B+DSA+Problems+across+Major+CP+Platforms%3BArchitected+7+Microservices+with+RabbitMQ+%26+Docker%3BBuilt+AI-Powered+Food+Delivery+%26+Online+Coding+Engines%3BMeta+Hacker+Cup+Semi-Finalist+%7C+Rank+1+Cognitio+'25+SDE" alt="Typing SVG Banner" />
 
 </div>
 
@@ -26,16 +19,16 @@
 
 ## 🎯 About Me
 
-I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedpur (Class of 2027)** with a current CGPA of **8.16/10.0** and a passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
+I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedpur (Class of 2027)** with a current CGPA of **8.16/10.0** and a strong passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
 
-- 🧠 **Problem Solver:** Solved **2,800+ algorithmic challenges** and participated in **280+ coding contests** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
-- 🏗️ **Systems Engineer:** Experienced in designing asynchronous **Microservices Architectures** using Node.js, RabbitMQ, Docker, and Redis caching.
-- 🤖 **AI Builder:** Built production-grade AI features including **semantic vector search, RAG pipelines**, and LLM-powered live code assistants and mock interviewers using Groq & Gemini APIs.
-- 💬 **Open to Roles:** Actively seeking **Software Development Engineer (SDE / Backend / Full-Stack)** full-time roles and high-impact internships.
+* 🧠 **Algorithmic Problem Solver:** Solved **2,800+ data structure & algorithmic challenges** and participated in **280+ coding contests** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
+* 🏗️ **Backend & Systems Architect:** Experienced in designing asynchronous **Microservices Architectures** using Node.js, RabbitMQ dead-letter queues, Docker containerization, and Redis caching layers.
+* 🤖 **AI/LLM Integrator:** Engineered production-grade AI search engines, semantic **RAG pipelines**, and live code debuggers/mock interviewers using Groq Llama 3.3 and Google Gemini APIs.
+* 💼 **Open for Opportunities:** Actively seeking **Software Development Engineer (SDE / Backend / Full-Stack)** full-time roles and high-impact software engineering internships.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🛠️ Technical Arsenal (Comprehensive Skill Matrix)
+## 🛠️ Technical Arsenal (Complete Skill Matrix)
 
 <div align="center">
 
@@ -99,13 +92,13 @@ I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedp
 
 ## 🏆 Competitive Programming & Achievements
 
-| Platform | Rating / Title | Solved / Contests | Highlight |
+| Platform | Peak Rating / Title | Problems Solved / Contests | Major Competition Highlights |
 | :--- | :---: | :---: | :--- |
-| **LeetCode** | **Knight (Max: 1853)** | Top Tier | **Rank 1060 / 30k** in Biweekly Contest 154 |
-| **Codeforces** | **Specialist (Max: 1435)** | Active Competitor | **Global Rank 1072 / 30k** in Round 1087 |
-| **CodeChef** | **3-Star (Max: 1624)** | Division 2 | **Global Rank 93 / 30k** in Starters 174C |
-| **Meta Hacker Cup** | **Semi-Finalist** | International | Qualified among top global algorithmic programmers |
-| **National Contests** | **Rank 1 & Top 12** | SDE Rounds | **Rank 1** Cognitio '25 SDE Round, **Rank 6** AlgoUniv Graph Camp, **Top 12** CodeKarma |
+| **LeetCode** | **Knight (Max: 1853)** | **Top Tier Solver** | **Rank 1060 / 30,000** in Biweekly Contest 154 |
+| **Codeforces** | **Specialist (Max: 1435)** | **Active Competitor** | **Global Rank 1072 / 30,000** in Round 1087 |
+| **CodeChef** | **3-Star (Max: 1624)** | **Division 2** | **Global Rank 93 / 30,000** in Starters 174C |
+| **Meta Hacker Cup** | **Semi-Finalist** | **International Level** | Qualified among top global algorithmic programmers worldwide |
+| **National Contests** | **Rank 1 & Top 12** | **SDE Hiring Rounds** | **Rank 1** Cognitio '25 SDE Round, **Rank 6** AlgoUniversity Graph Camp, **Top 12** CodeKarma |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -131,14 +124,9 @@ I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedp
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📈 Live GitHub Analytics & Contribution Graph
+## 📈 Live GitHub Analytics & Contribution Stats
 
 <div align="center">
-  <!-- Animated Activity Graph -->
-  <a href="https://github.com/Pradeepmodak">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeepmodak&bg_color=0D1117&color=58A6FF&line=2F81F7&point=FFA116&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Pradeepmodak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepmodak&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="GitHub Streak" />
 </div>
@@ -146,25 +134,24 @@ I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedp
 <br />
 
 <div align="center">
-  <!-- Animated Contribution Grid Snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Pradeepmodak/Pradeepmodak/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepmodak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepmodak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm always open to discussing **distributed systems, competitive algorithms, AI integrations, or full-time SDE opportunities**. Feel free to reach out!
+I am actively seeking **Full-Time SDE & Backend Engineering roles / internships**. I would love to connect and discuss high-concurrency systems, competitive coding, or AI integrations!
 
 <div align="center">
 
@@ -175,6 +162,8 @@ I'm always open to discussing **distributed systems, competitive algorithms, AI 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
 </div>
+
+<br />
 
 <p align="center">
   <sub>⭐ Built with passion by Pradeep Modak | Engineering & Computational Mechanics, NIT Jamshedpur '27 ⭐</sub>
