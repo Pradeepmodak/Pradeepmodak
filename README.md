@@ -7,7 +7,7 @@
 [![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight%20(Max:%201853)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Codeforces Specialist](https://img.shields.io/badge/Codeforces-Specialist%20(Max:%201435)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 [![CodeChef 3-Star](https://img.shields.io/badge/CodeChef-3--Star%20(Max:%201624)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![NIT Jamshedpur](https://img.shields.io/badge/NIT%20Jamshedpur-B.Tech%20'26-00529B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.nitjsr.ac.in/)
+[![NIT Jamshedpur](https://img.shields.io/badge/NIT%20Jamshedpur-B.Tech%20'27-00529B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.nitjsr.ac.in/)
 
 <br />
 
@@ -26,7 +26,7 @@
 
 ## 🎯 About Me
 
-I am a final-year **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedpur** (CGPA: **8.16/10.0**) with a passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
+I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedpur (Class of 2027)** with a current CGPA of **8.16/10.0** and a passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
 
 - 🧠 **Problem Solver:** Solved **2,800+ algorithmic challenges** and participated in **280+ coding contests** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
 - 🏗️ **Systems Engineer:** Experienced in designing asynchronous **Microservices Architectures** using Node.js, RabbitMQ, Docker, and Redis caching.
@@ -177,5 +177,5 @@ I'm always open to discussing **distributed systems, competitive algorithms, AI 
 </div>
 
 <p align="center">
-  <sub>⭐ Built with passion by Pradeep Modak | Engineering & Computational Mechanics, NIT Jamshedpur '26 ⭐</sub>
+  <sub>⭐ Built with passion by Pradeep Modak | Engineering & Computational Mechanics, NIT Jamshedpur '27 ⭐</sub>
 </p>
