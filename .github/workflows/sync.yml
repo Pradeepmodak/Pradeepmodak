@@ -10,6 +10,8 @@ jobs:
   update-readme:
     name: Update Readme with Recent Activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -17,8 +19,11 @@ jobs:
       - name: Keep Profile Alive
         run: |
           echo "Profile synced on $(date)" > .profile_sync
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push sync file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .profile_sync
-          git commit -m "chore(auto): daily profile sync and stats verification [skip ci]" || echo "No changes needed"
+          git diff --cached --quiet || git commit -m "chore(auto): daily profile sync [skip ci]"
           git push
