@@ -21,7 +21,7 @@
 
 I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedpur (Class of 2027)** with a current CGPA of **8.16/10.0** and a strong passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
 
-* 🧠 **Algorithmic Problem Solver:** Solved **2,800+ data structure & algorithmic challenges** and participated in **280+ coding contests** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
+* 🧠 **Algorithmic Problem Solver:** Solved **3,000+ data structure & algorithmic challenges** and participated in **300+ coding contests** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
 * 🏗️ **Backend & Systems Architect:** Experienced in designing asynchronous **Microservices Architectures** using Node.js, RabbitMQ dead-letter queues, Docker containerization, and Redis caching layers.
 * 🤖 **AI/LLM Integrator:** Engineered production-grade AI search engines, semantic **RAG pipelines**, and live code debuggers/mock interviewers using Groq Llama 3.3 and Google Gemini APIs.
 * 💼 **Open for Opportunities:** Actively seeking **Software Development Engineer (SDE / Backend / Full-Stack)** full-time roles and high-impact software engineering internships.
