@@ -11,7 +11,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Solved+2%2C800%2B+DSA+Problems+across+Major+CP+Platforms%3BArchitected+7+Microservices+with+RabbitMQ+%26+Docker%3BBuilt+AI-Powered+Food+Delivery+%26+Online+Coding+Engines%3BMeta+Hacker+Cup+Semi-Finalist+%7C+Rank+1+Cognitio+'25+SDE" alt="Typing SVG Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Solved+3%2C000%2B+DSA+Problems+across+Major+CP+Platforms%3BArchitected+7+Microservices+with+RabbitMQ+%26+Docker%3BBuilt+AI-Powered+Food+Delivery+%26+Online+Coding+Engines%3BMeta+Hacker+Cup+Semi-Finalist+%7C+Rank+1+Cognitio+'25+SDE" alt="Typing SVG Banner" />
 
 </div>
 
