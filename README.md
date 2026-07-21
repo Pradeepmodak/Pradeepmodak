@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I am a **B.Tech student in Engineering & Computational Mechanics at NIT Jamshedpur (Class of 2027)** with a current CGPA of **8.16/10.0** and a strong passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
+I am a **B.Tech student in Compuitational Enginnering at NIT Jamshedpur (Class of 2027)** with a current CGPA of **8.16/10.0** and a strong passion for **high-concurrency distributed systems, competitive programming, and applied Artificial Intelligence**.
 
 * 🧠 **Algorithmic Problem Solver:** Solved **3,000+ data structure & algorithmic challenges** and participated in **300+ coding contests** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks.
 * 🏗️ **Backend & Systems Architect:** Experienced in designing asynchronous **Microservices Architectures** using Node.js, RabbitMQ dead-letter queues, Docker containerization, and Redis caching layers.
