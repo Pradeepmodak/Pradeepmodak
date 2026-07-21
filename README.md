@@ -169,5 +169,5 @@ I am actively seeking **Full-Time SDE & Backend Engineering roles / internships*
 <br />
 
 <p align="center">
-  <sub>⭐ Built with passion by Pradeep Modak | Engineering & Computational Mechanics, NIT Jamshedpur '27 ⭐</sub>
+  <sub>⭐ Built with passion by Pradeep Modak | Computational Engineering, NIT Jamshedpur '27 ⭐</sub>
 </p>
